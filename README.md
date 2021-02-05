@@ -2,7 +2,7 @@
 <br>
 
 ## Abstract:
-### In this project we are implementing a memory allocator for the heap of a user-level process.
+### In this project, implementing a memory allocator for the heap of a user-level process.
 ### The basic idea of this project was to understand how a simple memory
 ### allocator works using basic system calls.
  <br> The implementation must pass through some basic guidelines:
